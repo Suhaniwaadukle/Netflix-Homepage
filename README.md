@@ -1,1 +1,1 @@
-Netflix-Homepage,github.io
+Netflix-Homepage.github.io
